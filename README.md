@@ -11,7 +11,7 @@ This is a web based application developed for organic & environment related acti
 ## Azure technologies used for Project
 
 - Static web apps
-- AI bot
+- Azure bot
 
 ## Features and Functionalities 😃
 
@@ -24,30 +24,13 @@ This is a web based application developed for organic & environment related acti
 
 ## Screenshots
 
-
-
-
-   
-
-### About Us -
-
-
-
-### Services -
-
-
-
-### Contact us -
-
-
-
-### health bot
-
-
-
+![Screenshot_20221127_113637](https://user-images.githubusercontent.com/118334300/204121830-332d51b9-85a1-4d22-a8b4-940f570c7360.png)
+![Screenshot_20221127_113820](https://user-images.githubusercontent.com/118334300/204121833-87ddba33-f00a-4083-8123-d6bb93ef738f.png)
+![Screenshot_20221127_113838](https://user-images.githubusercontent.com/118334300/204121840-49bb39d5-edf7-42b5-9529-d0b47145c653.png)
+![Screenshot_20221127_113854](https://user-images.githubusercontent.com/118334300/204121844-a1ecb3e1-5d29-4183-83ce-a87ca541491a.png)
+![Screenshot_20221127_113912](https://user-images.githubusercontent.com/118334300/204121847-6bf1395c-3469-425e-ac0e-6ba3409fad8f.png)
 
 ## Tech Stack 💻
-
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
