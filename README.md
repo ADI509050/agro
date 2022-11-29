@@ -13,7 +13,7 @@ This is a web based application developed for organic & environment related acti
 - Static web apps
 - Azure bot
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
